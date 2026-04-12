@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I know more on how to work with system than how system works.
+I know how to work with system than how system works.
 
 
 ## 🌐 Socials:
