@@ -14,6 +14,6 @@ I know how to work with system than how system works.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=subodhsig&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=subodhsig&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=subodhsig&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=adhikarisandil32&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adhikarisandil32&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adhikarisandil32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
